@@ -4,8 +4,9 @@ import Header from './component/header';
 import Slider from './component/slider';
 import NavBar from './component/navBar';
 import ContentTitle from './component/contentTitle';
-import Card from './component/card';
+import ProductList from './component/card';
 import Footer from './component/footer';
+
 
 
 function App() {
@@ -15,7 +16,7 @@ function App() {
       <NavBar/>
       <Slider/>
       <ContentTitle/>
-      <Card/>
+      <ProductList/>
       <Footer/>
     
     </div>
